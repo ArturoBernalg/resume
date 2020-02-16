@@ -1,3 +1,3 @@
 # resumenew
-My Resume https://arturoberanlg.github.io/resume/
+My Resume https://arturobernalg.github.io/resume/
 # resume
